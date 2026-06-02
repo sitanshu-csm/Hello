@@ -1,5 +1,3 @@
 print("Hello")
 print("2+2=", 2+2)
 print("3*3=", 3*3)
-print("5-2=", 5-2)
-print("10/2=", 10/2)
